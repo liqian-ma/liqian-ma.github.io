@@ -13,4 +13,5 @@ Throughout the years, I have been keeping track of the approaches I learn myself
 3. Encourage writing and speaking: both ways can make students reflect on what they know, which help them strengthen the understanding of knowledge, while the structure of writing gives the students opportunity to think thoroughly through a question, describe a problem (what, why) and give an answer (how).
 4. Encourage questions and give direction to answers: let students come up with the solutions themselves
 
+
 Afterall, a huge part of human learning is through experience. In a classroom or any mentoring settings, chances should be given to students to gain experience and learn from their experience. Students should be given examples from teachers to learn how to think and then be given chances to practice active thinking.
