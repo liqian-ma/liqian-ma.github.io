@@ -97,7 +97,7 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
   zoom: 1.0 ;
 }
 
-/*mobile*/
+/*mobile
 @media screen and (max-width: 480px){
 	.burger-nav{
 		display: block;
@@ -131,5 +131,5 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 		display: block;
 		margin: 0
 	}
-}
+}*/
 
