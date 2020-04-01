@@ -1,0 +1,12 @@
+---
+layout: post
+title: How Academist Think
+---
+
+Amid this COVID-19 crisis and the shift of whether everyone should wear masks or not in public, I reviewed the case of mask-wearing shift development in the US. With Asian background, I have been a proponent of the idea that everyone should be able to and should wear mask in the public to help reduce the transmission of virus. Since January, many experts and doctors have not been supportive of the idea that everyone should wear mask. The main arguement is that there is no solid evidence that wearing a mask would protect a person from getting sick. Yet, to my certain knowledge, there also have not been studies done on the benefit of wearing mask in public, even though in clinical settings studies show that wearing mask reduced the risk of contracting SARS in China back in 2003. 
+
+As a member of the general public myself, I wondered why many scientist and doctors were very hesitant to recommend wearing mask when the benefit is at least visible for healthcare workers. As a scientist myself, I think partly the answer is rooted in how academists and scientists think and solve problems in general. In academic and research settings, we always look for evidence to support our claims, and are always hesitant to make not fully founded statements. I believe that this is a very important and brilliant quality in science, because it is not only the driving force for us to ask why and how, but also fundamental to how we depict the world that we try to understand. Science requires evidence.
+
+Nevertheless, is this tremedously important quality in science equally valued in general life, in business and in real-life decision making? I would say not always. When it comes to real-life, we are always limited by the amount of information we can get and pressed by the amount of time we have to make a decision. This is also why many decisions also involve great risks. In real life, we do not have time to "wait" for solid evidence to make every single decision and we ought to take risks based on what we can only know, especially when the benefit may outweigh the risks or the risk is largely reduceable in practice.
+
+All in all, the past couple of months have inspired me to write down this short piece to remind ourselves to not forget and give up on the ability to make rapid and rational decisions. When the decision-making concerns rapidly evolving real-life problems, it is important to consciously balance the thinking processed that we are so used to.
