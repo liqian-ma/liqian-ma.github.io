@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Academist Think
+title: How Academists Think
 ---
 
 Amid this COVID-19 crisis and the shift of whether everyone should wear masks or not in public, I reviewed the case of mask-wearing shift development in the US. With Asian background, I have been a proponent of the idea that everyone should be able to and should wear mask in the public to help reduce the transmission of virus. Since January, many experts and doctors have not been supportive of the idea that everyone should wear mask. The main arguement is that there is no solid evidence that wearing a mask would protect a person from getting sick. Yet, to my certain knowledge, there also have not been studies done on the benefit of wearing mask in public, even though in clinical settings studies show that wearing mask reduced the risk of contracting SARS in China back in 2003. 
