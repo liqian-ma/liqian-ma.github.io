@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-	
-	{% include head.html %}
+	 <head>
+		 {% include head.html %}
+		 {% if jekyll.environment == 'production' and site.google_analytics %}
+		 {% include analytics.html %}
+		 {% endif %}
+	</head>
 	
 	<body>
-		<div class="container">
+	 		<div class="container">
 			
 			{% include header.html %}
 			
